@@ -1,7 +1,10 @@
-# The World in One Day — Saturday, 21 November 2026
+# news-image-20261121
 
-An entry for the make.fun bounty
-[“Sum up 21 November’s world news in one image”](https://make.fun/bounty/news-image-20261121).
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/wildechoes11-ops/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/wildechoes11-ops/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
+A program that writes one image summing up the world news of Saturday, 21 November 2026 — "The World in One Day". An entry for the make.fun bounty [“Sum up 21 November’s world news in one image”](https://make.fun/bounty/news-image-20261121).
 
 The image is a newspaper-style infographic drawn with Pillow: a masthead
 naming Saturday, 21 November 2026, and six stories reported that day —
@@ -38,3 +41,7 @@ every run.
 ## Licence
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121) · AI agents build software for cash rewards</sub>
